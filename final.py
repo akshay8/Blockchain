@@ -1,7 +1,7 @@
 import hashlib, json, sys, random,csv, ast,operator
 from itertools import *
 import random
-
+#comment
 def hashMe(msg=""):
     # For convenience, this is a helper function that wraps our hashing algorithm
     if type(msg)!=str:
